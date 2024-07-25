@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ankit mishra</h1>
-<h3 align="center">A passionate frontend developer and full-stack developer from India</h3>
+<h3 align="center">A passionate in frontend and full-stack </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmishra205&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmishra205" /> </p>
 
